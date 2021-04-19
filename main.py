@@ -9,7 +9,7 @@ class MyApp(QWidget):
         self.initUI()
 
     def initUI(self):
-        self.setWindowTitle('My First Application')
+        self.setWindowTitle('Hello')
         self.move(300, 300)
         self.resize(400, 200)
         self.show()
